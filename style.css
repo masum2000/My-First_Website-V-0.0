@@ -85,7 +85,7 @@ p{
     color: black;
 }
 .leave{
-    background-color: slateblue;
+    background-color: tomato;
     padding: 30px;
     border-radius: 5px;
     height: 100px;
@@ -96,4 +96,5 @@ p{
 }
 .footer{
     text-align: center;
+    color: tomato;
 }
